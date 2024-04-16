@@ -20,7 +20,7 @@ source venv/bin/activate
 
 run the `game.py` using `python` as showed:
 ```
-python game.py
+python -m game
 ```
 
 the terminal should display `Enter a choice (rock, paper, scissors):`,
